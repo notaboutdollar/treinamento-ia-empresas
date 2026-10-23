@@ -1,3 +1,3 @@
-# Plataformas de treinamento de IA — pesquisa com gravadores
+# Plataformas de treinamento de IA no Brasil
 
-Deck estático (index.html). Dados agregados e anonimizados de uma pesquisa de outubro de 2026.
+Relatório (index.html) e apresentação (slides/). PT/EN via ?lang=en. Dados agregados e anonimizados de pesquisa de outubro de 2026.
